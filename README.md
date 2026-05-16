@@ -213,7 +213,9 @@ Beyond-Jobless-Project/
 │   ├── state_M2024_dl.xlsx         # BLS Occupational Data 2024
 │   ├── ststdsadata.xlsx            # State-level statistics
 │   ├── Major For Jops.xlsx         # Major occupation categories
-│   └── immigrants-by-state-2025.xlsx # Immigration data by state
+│   ├── immigrants-by-state-2025.xlsx # Immigration data by state
+│   ├── rejection_reasons_raw.xlsx  # Rejection cases analysis (raw)
+│   └── rejection_reasons_clean.xlsx # Rejection cases analysis (cleaned)
 │
 └── 📄 README.md                    # This file
 ```
