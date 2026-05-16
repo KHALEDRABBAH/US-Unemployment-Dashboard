@@ -111,10 +111,10 @@
 
 ```mermaid
 graph LR
-    A[📥 Data Collection] --> B[🧹 Data Cleaning]
-    B --> C[🔗 Data Modeling]
-    C --> D[📊 Analysis & Visualization]
-    D --> E[🤖 AI-Powered Insights]
+    A["1. Data Collection"] --> B["2. Data Cleaning"]
+    B --> C["3. Data Modeling"]
+    C --> D["4. Analysis & Visualization"]
+    D --> E["5. AI-Powered Insights"]
     
     style A fill:#4CAF50,stroke:#333,color:#fff
     style B fill:#2196F3,stroke:#333,color:#fff
