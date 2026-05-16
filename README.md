@@ -300,6 +300,6 @@ This project is licensed under the **MIT License** — see the [LICENSE](LICENSE
 ---
 
 [![GitHub](https://img.shields.io/badge/GitHub-KHALEDRABBAH-181717?style=for-the-badge&logo=github)](https://github.com/KHALEDRABBAH)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/khaledrabbah/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/khaled-rabbah/)
 
 </div>
