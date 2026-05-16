@@ -1,0 +1,24 @@
+# Large video files (exceed GitHub 100MB limit)
+Demo.mp4
+
+# Windows system files
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+$RECYCLE.BIN/
+
+# Temporary files
+~$*.xlsx
+~$*.pptx
+~$*.pbix
+*.tmp
+*.bak
+
+# Office lock files
+.~lock.*
+
+# macOS
+.DS_Store
+
+# Power BI auto-recovery
+*.pbix.bak
