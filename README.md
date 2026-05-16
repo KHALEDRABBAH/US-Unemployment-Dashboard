@@ -248,13 +248,12 @@ After being nominated among the **Top Projects** in DEPI, the team expanded the 
 
 <div align="center">
 
-| Team Member | Role |
-|-------------|------|
-| **Mustafa Adel** | Data Analysis & Visualization |
-| **Basmala Helmy** | Data Analysis & Visualization |
-| **Habiba Amr** | Data Analysis & Visualization |
-| **Mariam Elsherbiny** | Data Analysis & Visualization |
-| **Oliver Medhat** | Data Analysis & Visualization |
+| Team Member |
+|-------------|
+| **Mustafa Adel** |
+| **Basmala Helmy** |
+| **Habiba Amr** |
+| **Mariam Elsherbiny** |
 
 </div>
 
